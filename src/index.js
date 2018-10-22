@@ -4,7 +4,7 @@ import './index.css';
 // import App from './App';
 import * as serviceWorker from './serviceWorker';
 // import Card from './Card';
-import App from './App';
+import App from './containers/App';
 import 'tachyons';
 import {robots} from './robots'
 
